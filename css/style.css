@@ -1,0 +1,39 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.one{
+    height: 100vh;
+    background-image: url("/home/enzo/blueasyBootstrap/images/HERO.jpg");
+}
+
+.espace{
+    display: flex;
+    justify-content: flex-end;
+}
+.titre{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    font-size: 50px;
+    flex-direction: column;
+}
+.two{
+    display: flex;
+    flex-direction: column;
+    height: 70vh;
+    background-image: url("/home/enzo/blueasyBootstrap/images/fondservices.png");
+}
+.Service{
+    display: flex;
+    justify-content: flex-start;
+    height: 20%;
+    font-size: 50px;
+    color: white;
+    align-items: center;
+}
+.logo4{
+    display: flex;
+    height: 80%;
+  }
